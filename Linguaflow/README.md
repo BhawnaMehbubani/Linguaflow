@@ -1,7 +1,6 @@
 # Linguaflow
 
-Linguaflow is a multilingual translation API built using FastAPI and MarianMT from Hugging Face Transformers. This project enables translation between English and other languages like French, Portuguese, and Spanish. The project was developed as part of a course at **Grow Data Skills**.
-
+Linguaflow is a multilingual translation API built using FastAPI and MarianMT from Hugging Face Transformers. This project enables translation between English and other languages like French, Portuguese, and Spanish. 
 ---
 
 ## Features
@@ -9,13 +8,11 @@ Linguaflow is a multilingual translation API built using FastAPI and MarianMT fr
 - Supported languages: French, Portuguese, Spanish.
 - Simple and efficient API.
 
----
 
 ## Prerequisites
 - Python 3.8 or later
 - pip
 
----
 
 ## Setup and Installation
 
