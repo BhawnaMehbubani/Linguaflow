@@ -79,11 +79,3 @@ Linguaflow/
 ├── README.md           # Project documentation
 ```
 
----
-
-## Developed As Part of Grow Data Skills
-This project was created as part of a hands-on project in the **Grow Data Skills** course. The course focuses on practical applications of machine learning and natural language processing.
-
----
-
-
